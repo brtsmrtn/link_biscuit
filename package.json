@@ -1,0 +1,23 @@
+{
+  "name": "link_biscuit",
+  "version": "1.0.0",
+  "description": "I'm starting",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brtsmrtn/link_biscuit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brtsmrtn/link_biscuit/issues"
+  },
+  "homepage": "https://github.com/brtsmrtn/link_biscuit#readme",
+  "devDependencies": {
+    "jest": "^26.6.2"
+  }
+}
